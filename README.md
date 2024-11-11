@@ -1,11 +1,11 @@
 ## About me 👋
-+ I'm currently pursuing M.E. in the School of Computer Science and Technology, Guangdong University of Technology.
-+ I received a B.E. in computer science and technology, South China Normal University, 2022.
-+ **Research Interest:** edge intelligence, reinforcement learning, data mining.
++ I'm currently pursuing M.E. in the School of Computer Science and Engineering, Guangdong University of Technology.
++ I received a B.E. in computer science and technology from South China Normal University in 2022.
++ **Research Interest:** Internet of Things, Reinforcement Learning, Data Mining.
 
 ## Contact me at 📫
++ junhongwu2000@outlook.com
 + junhongwu@m.scnu.edu.cn
-+ rollbearwu@qq.com
 
 <!--
 **Rollbear-bot/Rollbear-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
