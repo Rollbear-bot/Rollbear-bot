@@ -1,7 +1,8 @@
 ## About me 👋
-+ I'm currently pursuing M.E. in the School of Computer Science and Engineering, Guangdong University of Technology.
-+ I received a B.E. in computer science and technology from South China Normal University in 2022.
-+ **Research Interest:** Internet of Things, Reinforcement Learning, Data Mining.
++ M.E. in the School of Computer Science and Engineering, Guangdong University of Technology, 2025.
++ B.E. in computer science and technology from South China Normal University, 2022.
++ **Research Interest:** Vehicular Networks, Internet of Things, Data Mining.
++ I’m currently working on AI Agent engineering.
 
 ## Contact me at 📫
 + junhongwu2000@outlook.com
